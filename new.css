@@ -1,0 +1,118 @@
+
+body{
+    padding:0px;
+    margin:0px;
+    display:border-box;
+}
+.person{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    padding:20px;
+
+}
+.display3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    padding:20px;
+   
+    
+}
+.threep{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     padding:10px;
+   text-align:center;
+
+
+}
+
+
+
+
+.oneb{
+    height:50px;
+    width:100px;
+    margin-left:40px;
+    background-color:rgb(74, 153, 210);
+    border:2px solid black;
+    border-radius: 25%;
+}
+.twob{
+    height:50px;
+    width:100px;
+    margin-left:40px;
+    background-color:rgb(74, 153, 210);
+    border:2px solid black;
+    border-radius:25%;
+
+}
+.threeb{
+    height:50px;
+    width:100px;
+    margin-left:40px;
+    background-color:rgb(74, 153, 210);
+     border:2px solid black;
+    border-radius:25%;
+
+}
+.image12{
+    height:90px;
+    width:100px;
+    margin-left:30px;
+    border:2px solid black;
+}
+.image23{
+    height:90px;
+    width:100px;
+    margin-left:30px;
+    border:2px solid black;
+}
+.image24{
+    height:90px;
+    width:100px;
+    margin-left:30px;
+    border:2px solid black;
+}
+.last{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    align-items:center;
+    justify-content: center;
+    background-color:rgb(74, 153, 210);
+    
+
+}
+.onetwo{
+    
+     height:50px;
+     width:100px;
+     color:green;
+     border-radius:25%;
+}
+.threefour{
+    height:50px;
+    width:100px;
+    border-radius:25%;
+    margin-bottom: 20px;
+}
+.email{
+    margin-top:10px;
+}
+.fours{
+    display:flex;
+    flex-direction:row;
+    gap:70px;
+    color:blue;
+    font-size:20px;
+    margin-left:100px;
+
+}
+a:hover{
+    color:rgb(42, 46, 165);
+}
+.email{
+    margin-top:30px;
+}
+
+
+
